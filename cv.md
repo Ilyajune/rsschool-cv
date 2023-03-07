@@ -1,4 +1,4 @@
-Init: Ilya Domnikov
+
 
 ## My Contacts Info
 
