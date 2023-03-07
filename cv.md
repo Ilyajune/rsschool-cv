@@ -33,7 +33,7 @@ function multiply(a, b){
 
 #### Studying in college
 
-## English
+## Languages
 
 #### A2(Pre-Intermediate)
 #### Russian(Native)
