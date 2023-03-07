@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ilyajune.github.io/rsschool-cv/
